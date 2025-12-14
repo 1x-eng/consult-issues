@@ -1,5 +1,7 @@
 # consult issues
 
+[![GitHub issues](https://img.shields.io/github/issues/1x-eng/consult-issues)](https://github.com/1x-eng/consult-issues/issues)
+
 the source for [consult](https://pypi.org/project/getconsult/) is private. this repo is where you file bugs, request features, or ask questions.
 
 ## filing an issue
@@ -18,4 +20,4 @@ docs: [getconsult.sysapp.dev](https://getconsult.sysapp.dev)
 
 ## contact
 
-[pruthvikumar.123@gmail.com](mailto:pruthvikumar.123@gmail.com)
+[email](mailto:pruthvikumar.123@gmail.com)
